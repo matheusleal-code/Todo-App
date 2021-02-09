@@ -1,0 +1,16 @@
+.page-header{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px inset;
+    padding-bottom: 0.6rem;
+    margin-bottom: 1rem;
+}
+
+.page-header h2{
+    margin-right: 0.5rem;
+}
+
+.page-header small{
+    opacity: 0.6;
+    font-size: 14px;
+}

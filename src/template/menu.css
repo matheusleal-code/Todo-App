@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    margin-bottom: 2rem;
+    align-items: center;
+    background: #363636;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+}
+
+#navbar .navbar-nav{
+    display: flex;
+}
+
+#navbar li{
+    list-style-type: none;
+    margin-left: 1rem;
+}
+
+.navbar a{
+    opacity: 0.5;
+}
+
+.navbar a:focus{
+    opacity: 1;
+}

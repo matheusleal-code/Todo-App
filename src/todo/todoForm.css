@@ -1,0 +1,22 @@
+.todoForm{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.input-container{
+    padding-left: 1rem;
+    width: 100%;
+}
+
+.input-form{
+    width: 100%;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    border: 1px inset;
+}
+
+.actions-container{
+    margin-left: 1rem;
+    display: flex;
+}
