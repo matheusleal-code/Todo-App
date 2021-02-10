@@ -5,7 +5,6 @@ import './about.css'
 export default props => (
     <div>
         <PageHeader name="Sobre" small="Nós"/>
-
         <h2>Nossa História</h2>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum ex totam doloremque tenetur, perspiciatis ducimus modi in maxime molestiae quaerat at numquam repellat, impedit molestias temporibus ipsam! Id, mollitia quae.</p>
         <h2>Missão e Visão</h2>

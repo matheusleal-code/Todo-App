@@ -13,7 +13,12 @@
     background: #007bff;
 }
 
-.btn-form.add:hover{
+.btn-form:hover{
     opacity: 1;
 }
+
+.btn-form.danger{
+    background: red;
+}
+
 

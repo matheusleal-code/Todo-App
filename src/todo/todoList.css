@@ -1,0 +1,13 @@
+.list-table{
+    width: 100%;
+}
+
+thead, tbody{
+    text-align: justify;
+}
+
+thead th,tbody td{
+    border-bottom: 1px inset;
+    padding: 1rem;
+}
+
