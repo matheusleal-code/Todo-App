@@ -9,16 +9,33 @@
     opacity: 0.7;
 }
 
-.btn-form.add{
-    background: #007bff;
-}
-
 .btn-form:hover{
     opacity: 1;
 }
 
-.btn-form.danger{
-    background: red;
+.btn-form.add{
+    background: #007bff;
 }
 
+.btn-form.info{
+    background:#17a2b8;
+}
+
+.btn-form.default{
+    background: #fff;
+    color: black;
+    border: 1px inset;
+}
+
+.btn-form.danger{
+    background: #dc3545;
+}
+
+.btn-form.warning{
+    background: #ffc107;
+}
+
+.btn-form.success{
+    background: #28a745;
+}
 

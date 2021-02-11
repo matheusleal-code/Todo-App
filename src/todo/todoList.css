@@ -11,3 +11,11 @@ thead th,tbody td{
     padding: 1rem;
 }
 
+.table-actions{
+    width: 105px;
+}
+
+.markAsDone{
+    text-decoration: line-through;
+    color: #777;
+}
